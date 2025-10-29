@@ -1,16 +1,33 @@
-## Hi there 👋
+```yaml
+name: Julien
+located_in: Paris, France
+currently: Student at 42Paris
+education:
+  [
+    "Self-Taught Developer",
+    "42School Paris",
+  ]
 
-<!--
-**Yureez1/Yureez1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+fields_of_interest:
+  [
+    "Web Development",
+    "DevOps",
+    "Machine Learning",
+    "App Development",
+    "Networking",
+  ]
 
-Here are some ideas to get you started:
+currently_learning:
+  [
+    "C",
+    "C++",
+    "Python",
+    "Javascript",
+  ]
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+hobbies:
+  [
+    "Gym",
+    "Cinema",
+    "Free-party",
+  ]
