@@ -1,4 +1,4 @@
-## About me and my interests
+## About me and my interests ✨
 
 ```yaml
 name: Julien
