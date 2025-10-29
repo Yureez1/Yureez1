@@ -1,33 +1,26 @@
 ```yaml
 name: Julien
-located_in: Paris, France
-currently: Student at 42Paris
+location: Paris, France
+current_status: Student @ 42Paris
+
 education:
-  [
-    "Self-Taught Developer",
-    "42School Paris",
-  ]
+  - Self-Taught Developer
+  - 42 School Paris
 
 fields_of_interest:
-  [
-    "Web Development",
-    "DevOps",
-    "Machine Learning",
-    "App Development",
-    "Networking",
-  ]
+  - Web Development
+  - DevOps
+  - Machine Learning
+  - App Development
+  - Networking
 
 currently_learning:
-  [
-    "C",
-    "C++",
-    "Python",
-    "Javascript",
-  ]
+  - C
+  - C++
+  - Python
+  - JavaScript
 
 hobbies:
-  [
-    "Gym",
-    "Cinema",
-    "Free-party",
-  ]
+  - Gym
+  - Cinema
+  - Free-party
