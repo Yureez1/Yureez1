@@ -13,3 +13,9 @@ I started as a self-taught developer before joining 42 to dive deeper into softw
 
 ### Off-screen
 When I'm not coding or debugging, my time away from the keyboard is mostly spent at the gym, watching movies, or listening to music.
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Julien-blue?logo=linkedin)](https://linkedin.com/in/TON-PROFIL)
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Yureez1&show_icons=true&theme=dark)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Yureez1&layout=compact&theme=dark)
