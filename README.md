@@ -57,18 +57,6 @@ Milestones 0 to 5 covering: memory management, parsing, processes, threads, and 
 
 ---
 
-## 📊 GitHub Stats
-
-<div align="center">
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Yureez1&show_icons=true&theme=github_dark&hide_border=true&include_all_commits=true)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Yureez1&layout=compact&theme=github_dark&hide_border=true)
-
-</div>
-
----
-
 ## 🎯 Currently looking for
 
 An **apprenticeship or internship in Data Engineering** (Île-de-France, available from [September 2026]).
